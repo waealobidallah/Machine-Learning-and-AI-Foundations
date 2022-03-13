@@ -5,7 +5,7 @@ from sklearn.metrics import mean_absolute_error
 from sklearn.externals import joblib
 
 # Load the data set
-df = pd.read_csv("ml_house_data_set.csv")
+df = pd.read_csv("Chapter 4\ml_house_data_set.csv")
 
 # Remove the fields from the data set that we don't want to include in our model
 del df['house_number']

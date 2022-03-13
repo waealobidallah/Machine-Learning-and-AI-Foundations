@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chapter 1"
+    "\\Chapter 2",
+    "\\Chapter 3",
+    "\\Chapter 4",
+    "\\Chapter 5"
   ],
-  "SelectedNode": "\\Chapter 1\\simple_value_estimator complete.py",
+  "SelectedNode": "\\Chapter 5\\train_model pt1 final.py",
   "PreviewInSolutionExplorer": false
 }

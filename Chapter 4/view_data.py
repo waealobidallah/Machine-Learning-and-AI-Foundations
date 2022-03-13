@@ -3,7 +3,7 @@ import webbrowser
 import os
 
 # Read the dataset into a data table using Pandas
-data_table = pandas.read_csv("ml_house_data_set.csv")
+data_table = pandas.read_csv("Chapter 4\ml_house_data_set.csv")
 
 # Create a web page view of the data for easy viewing
 html = data_table[0:100].to_html()
